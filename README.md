@@ -1,8 +1,8 @@
-#Challenge 1
+# Challenge 1
 
 Robust, human-like debt collection via phone—AI-powered, compliant, and analytics-ready.
 
-#🚀 Features
+## 🚀 Features
 Automated Phone Calls: Uses Twilio for real outbound calling (U.S. and global support).
 
 Realistic Voice: Human-like conversational flow (powered by ElevenLabs).
@@ -19,7 +19,7 @@ Edge Case Handling: Graceful with interruptions, unexpected replies, noise, and 
 
 Full Logging & Reporting: SQLite database for storage; structured reports for every call.
 
-#🛠️ Setup
+## 🛠️ Setup
 Clone & Install:
 
 bash
@@ -44,7 +44,7 @@ Make a Real Call:
 
 bash
 python agent.py call +1TARGETNUMBER
-#📈 Outputs
+## 📈 Outputs
 Live call recording (mp4, via LiveKit)
 
 Transcript, sentiment & risk analysis (SQLite and JSON reports)
