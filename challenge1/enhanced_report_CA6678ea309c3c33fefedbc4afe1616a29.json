@@ -1,0 +1,33 @@
+{
+  "call_analytics": {
+    "sid": "CA6678ea309c3c33fefedbc4afe1616a29",
+    "status_history": [
+      {
+        "status": "ringing",
+        "timestamp": "2025-08-20T23:12:59.106955"
+      },
+      {
+        "status": "in-progress",
+        "timestamp": "2025-08-20T23:13:04.635023"
+      },
+      {
+        "status": "completed",
+        "timestamp": "2025-08-20T23:14:41.778724"
+      }
+    ],
+    "duration": "99"
+  },
+  "risk_score": 0.5,
+  "conversation_summary": {
+    "total_turns": 0,
+    "agent_messages": 0,
+    "user_responses": 0,
+    "sentiment": "positive",
+    "key_topics": [
+      "payment_discussion",
+      "cooperation"
+    ],
+    "compliance_flags": []
+  },
+  "compliance_status": "compliant"
+}
